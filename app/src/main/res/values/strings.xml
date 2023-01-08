@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bioApp</string>
+    <string name="bio_text"></string>
+</resources>
